@@ -46,4 +46,21 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Khalid's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidTheCoder&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=github-dark&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
+
+
+
 
