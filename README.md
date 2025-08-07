@@ -6,12 +6,8 @@
 
 
 
-## 🧠 About Me
-- 🚀 MERN Stack Developer passionate about building scalable and responsive web applications
-- 🧩 Dedicated to mastering full-stack development and backend architecture
-- 🧼 Committed to writing clean, maintainable code and following best development practices
-- 📈 Continuously learning new technologies and enhancing existing skills to stay industry-ready
-- 🤝 Strong believer in collaboration, open-source contribution, and continuous improvement
+🧠 About Me
+I'm a passionate MERN Stack Developer with a strong focus on building scalable, responsive, and user-centric web applications. I take pride in writing clean, maintainable code and continuously improving through learning and collaboration. With a deep interest in full-stack architecture, I aim to deliver efficient solutions while embracing best development practices and emerging technologies.
 
 
 ## 🚀 What I'm Doing Now
