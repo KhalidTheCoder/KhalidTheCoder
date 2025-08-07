@@ -80,17 +80,17 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
+<!-- Profile Trophy -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
 
-  <!-- Profile Trophy -->
   <img 
     src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" 
     alt="GitHub Trophies" 
-    height="140"
-    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
+    style="max-width: 100%; height: auto; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); padding: 10px;"
   />
 
 </div>
+
 
 
 
