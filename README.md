@@ -18,32 +18,19 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 - 📚 Continuously enhancing my skills in backend architecture, security, and performance optimization
 
 
-## 🛠️ My Skills
-
-
-### 👨‍💻 Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> </p>
-
-
-### 🔧 Backend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" /> </p>
-
-
-### 🧰 Tools & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" /> </p>
+🛠️ Technical Skills
+👨‍💻 Frontend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> </div>
+🔧 Backend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" /> </div>
+🧰 Tools & Platforms
+<div align="center"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" /> </div>
 
 
 
 
-
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid24/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/KhalidTheCoder)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/khalidahsan24?s=11)
-
+🌐 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/khalid24/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>&nbsp;&nbsp; <a href="https://github.com/KhalidTheCoder" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>&nbsp;&nbsp; <a href="https://x.com/khalidahsan24?s=11" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </div>
 
 
 ## 🌟 GitHub Insights
