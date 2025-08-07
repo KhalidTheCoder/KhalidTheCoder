@@ -46,47 +46,60 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 
 
-## 📈 GitHub Overview
+## 🌟 GitHub Insights
+
+Welcome to a snapshot of my development activity — here you'll find contribution streaks, language usage, and key open-source highlights.
+
+---
+
+### 🔥 Contribution Stats
 
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
     alt="GitHub Stats"
     height="180"
-    style="margin: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
+    style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidTheCoder&theme=radical&hide_border=true" 
     alt="GitHub Streak"
     height="180"
-    style="margin: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
+    style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
 </div>
 
 ---
 
-## 🧠 Most Used Languages
+### 💻 Top Languages I Work With
 
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
+    alt="Top Languages"
     height="140"
-    style="margin-top: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
+    style="margin-top: 10px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" 
     alt="GitHub Trophies"
-    style="max-width: 100%; padding: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
+    style="padding: 10px; max-width: 100%; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
 </div>
+
+---
+
+<p align="center">
+  🚀 Stay curious. Keep building. <br />
+  <a href="https://github.com/KhalidTheCoder">🔗 Visit My GitHub Profile</a>
+</p>
 
 
 
