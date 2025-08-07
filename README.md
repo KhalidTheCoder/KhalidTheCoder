@@ -34,3 +34,14 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 
 
+
+
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/khalid24/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/KhalidTheCoder)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/khalidahsan24?s=11)
+
+
+
+
