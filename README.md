@@ -32,11 +32,11 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 ## 🌐 Let's Connect
 
-<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid24/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid24/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/KhalidTheCoder)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/khalidahsan24?s=11) </div>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/khalidahsan24?s=11) 
 
 
 ## 🌟 GitHub Insights
