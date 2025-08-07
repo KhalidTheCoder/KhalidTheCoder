@@ -2,3 +2,10 @@
 
 # 👋 Hello, I'm **Syed Khalid Bin Ahsan**
 ### 💻 MERN Stack Web Developer | Aspiring Full Stack Web Developer
+
+## 🧠 About Me
+- 🚀 MERN Stack Developer passionate about building scalable and responsive web applications
+- 🧩 Dedicated to mastering full-stack development and backend architecture
+- 🧼 Committed to writing clean, maintainable code and following best development practices
+- 📈 Continuously learning new technologies and enhancing existing skills to stay industry-ready
+- 🤝 Strong believer in collaboration, open-source contribution, and continuous improvement
