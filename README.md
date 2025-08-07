@@ -46,40 +46,45 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 
 
-## 📊 GitHub Stats
+## 📈 GitHub Overview
 
-<!-- Main GitHub Stats and Streak -->
-<div align="center" style="margin-bottom: 40px;">
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
     height="180"
-    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); margin: 10px;"
+    style="margin: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidTheCoder&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
+    alt="GitHub Streak"
     height="180"
-    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); margin: 10px;"
+    style="margin: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
   />
 </div>
 
-<!-- Top Languages -->
-<div align="center" style="margin-bottom: 50px;">
+---
+
+## 🧠 Most Used Languages
+
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=radical&hide_border=true" 
     alt="Top Languages" 
     height="140"
-    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
+    style="margin-top: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
   />
 </div>
 
-<!-- GitHub Trophies -->
+---
+
+## 🏆 GitHub Achievements
+
 <div align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" 
     alt="GitHub Trophies"
-    style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); padding: 10px;"
+    style="max-width: 100%; padding: 10px; border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" 
   />
 </div>
 
