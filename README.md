@@ -82,11 +82,14 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 <!-- Profile Trophy -->
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" 
-    alt="GitHub Trophies" 
-    style="max-width: 100%; border-radius: 15px; padding: 10px;"
-  />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Commits" height="100" style="margin: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Repositories" height="100" style="margin: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Stars" height="100" style="margin: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Followers" height="100" style="margin: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Issues" height="100" style="margin: 10px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=PullRequest" height="100" style="margin: 10px;" />
+
 </div>
 
 
