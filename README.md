@@ -48,7 +48,7 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;">
 
   <!-- Main Stats -->
   <img 
@@ -68,9 +68,7 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 </div>
 
-<br />
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;">
 
   <!-- Top Languages -->
   <img 
@@ -79,6 +77,10 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
     height="140"
     style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
   />
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
 
   <!-- Profile Trophy -->
   <img 
@@ -89,6 +91,7 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
   />
 
 </div>
+
 
 
 
