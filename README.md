@@ -1,8 +1,4 @@
-<img 
-  src="https://raw.githubusercontent.com/KhalidTheCoder/KhalidTheCoder/main/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image.png" 
-  alt="Banner" 
-  style="width: 100%; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);"
-/>
+<img src="https://raw.githubusercontent.com/KhalidTheCoder/KhalidTheCoder/main/Dark%20Blue%20Pixel%20Retro%20Digital%20Marketing%20LinkedIn%20Article%20Cover%20Image.png" alt="Banner" width="100%" />
 
 ## Hi there 👋
 
