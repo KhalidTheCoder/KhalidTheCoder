@@ -32,7 +32,11 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 ## 🌐 Let's Connect
 
-<div align="center"> <a href="https://www.linkedin.com/in/khalid24/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>&nbsp;&nbsp; <a href="https://github.com/KhalidTheCoder" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>&nbsp;&nbsp; <a href="https://x.com/khalidahsan24?s=11" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </div>
+<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid24/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/KhalidTheCoder)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://x.com/khalidahsan24?s=11) </div>
 
 
 ## 🌟 GitHub Insights
