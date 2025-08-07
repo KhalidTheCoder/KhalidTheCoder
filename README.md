@@ -48,7 +48,7 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 ## 🌟 GitHub Insights
 
-Welcome to a snapshot of my development activity — here you'll find contribution streaks, language usage, and key open-source highlights.
+Explore an overview of my development journey, including contribution streaks, language proficiency, and open-source highlights.
 
 ---
 
@@ -97,8 +97,7 @@ Welcome to a snapshot of my development activity — here you'll find contributi
 ---
 
 <p align="center">
-  🚀 Stay curious. Keep building. <br />
-  <a href="https://github.com/KhalidTheCoder">🔗 Visit My GitHub Profile</a>
+  🚀 Stay curious. Keep building.
 </p>
 
 
