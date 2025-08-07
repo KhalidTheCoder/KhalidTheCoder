@@ -48,18 +48,48 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Khalid's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidTheCoder&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats" 
+    height="180"
+    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
+  />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=github-dark&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
-</p>
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidTheCoder&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    height="180"
+    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
+  />
+
+</div>
+
+<br />
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="140"
+    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
+  />
+
+  <!-- Profile Trophy -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" 
+    alt="GitHub Trophies" 
+    height="140"
+    style="border-radius: 15px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);"
+  />
+
+</div>
+
 
 
 
