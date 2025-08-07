@@ -24,19 +24,13 @@
 ## 🛠️ My Skills
 
 ### 👨‍💻 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" alt="Frontend Skills" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /> </p>
 
 ### 🔧 Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" /> </p>
 
 ### 🧰 Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman" alt="DevOps Tools" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" /> </p>
 
 
 
