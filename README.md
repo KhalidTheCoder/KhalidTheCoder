@@ -55,9 +55,6 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
     </div>
 
   </div>
-</div>
-
-
 
   <div style="margin-top:25px;max-width:420px;width:100%;border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
     <img
@@ -66,6 +63,11 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
       style="display:block;width:100%;height:auto;border-radius:8px;"
     />
   </div>
+</div>
+
+
+
+  
 
 
 ---
