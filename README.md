@@ -41,19 +41,42 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 Explore an overview of my development journey, including contribution streaks, language proficiency, and open-source highlights.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhalidTheCoder&theme=dark&hide_border=true&background=0D1117&dates=DDD&fire=FF9800&ring=FF9800&currStreakLabel=FF9800" alt="GitHub Streak" />
-</p>
+<!-- GitHub Live Stats Card for KhalidTheCoder - README friendly -->
+<div align="center" style="max-width:980px;margin:22px auto;padding:18px;border-radius:12px;background:transparent;">
+  <!-- OUTER CARD -->
+  <div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:flex-start;width:100%;">
+    <!-- LEFT: Streak (three-column small card) -->
+    <div style="flex:1 1 360px;min-width:320px;max-width:420px;border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
+      <img
+        alt="GitHub Streak"
+        src="https://streak-stats.demolab.com?user=KhalidTheCoder&theme=dark&hide_border=true&background=0D1117&fire=FF9800&ring=FF9800&dates=AAAA&v=1"
+        style="display:block;width:100%;height:auto;border-radius:8px;"
+      />
+    </div>
 
-<p align="center">
-  <!-- Summary stats (live) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
-</p>
+    <!-- RIGHT: Summary Stats box and Most Used Languages stacked -->
+    <div style="flex:1 1 460px;min-width:320px;max-width:520px;display:flex;flex-direction:column;gap:14px;">
 
-<p align="center">
-  <!-- Top languages (live) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+      <!-- Stats card (use github-readme-stats service) -->
+      <div style="border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
+        <img
+          alt="KhalidTheCoder's GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=520&v=1"
+          style="display:block;width:100%;height:auto;border-radius:8px;"
+        />
+      </div>
+
+      <!-- Top languages (colorful horizontal bar) -->
+      <div style="border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
+        <img
+          alt="Most Used Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark&hide_border=true&card_width=520&v=1"
+          style="display:block;width:100%;height:auto;border-radius:8px;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
