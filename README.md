@@ -52,12 +52,6 @@ Explore an overview of my development journey, including contribution streaks, l
     height="180"
     style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
-  <img
-    src="https://streak-stats.demolab.dev/?user=KhalidTheCoder&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-    height="180"
-    style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
-  />
 </div>
 
 ---
