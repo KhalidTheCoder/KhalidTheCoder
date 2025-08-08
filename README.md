@@ -47,8 +47,14 @@ Explore an overview of my development journey, including contribution streaks, l
 
 <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/107488620/183304037-0e54b5e6-f39a-481d-806f-3369d257a391.png" 
-    alt="GitHub Stats Custom"
+    src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=30,0d0d0d,1a1a1a&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&hide_border=true" 
+    alt="GitHub Stats"
+    height="180"
+    style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
+  />
+  <img
+    src="https://streak-stats.demolab.dev/?user=KhalidTheCoder&theme=radical&hide_border=true&background=1a1a1a&ring=ff4d4d&fire=ff4d4d&currStreakLabel=ffffff"
+    alt="GitHub Streak"
     height="180"
     style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
@@ -60,7 +66,7 @@ Explore an overview of my development journey, including contribution streaks, l
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=radical&bg_color=1a1a1a&title_color=ff4d4d&text_color=ffffff&hide_border=true" 
     alt="Top Languages"
     height="140"
     style="margin-top: 10px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
@@ -73,11 +79,12 @@ Explore an overview of my development journey, including contribution streaks, l
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" 
+    src="https://github-profile-trophy.vercel.app/?username=KhalidTheCoder&theme=radical&no-frame=true&column=3&title=Stars,Followers,Commits,Repositories,PullRequest,Issues&margin-w=15&margin-h=15" 
     alt="GitHub Trophies"
     style="padding: 10px; max-width: 100%; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
 </div>
+
 
 
 
