@@ -42,9 +42,7 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 Explore an overview of my development journey, including contribution streaks, language proficiency, and open-source highlights.
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=KhalidTheCoder&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=KhalidTheCoder&theme=dark&hide_border=true&background=0D1117&dates=DDD&fire=FF9800&ring=FF9800&currStreakLabel=FF9800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
