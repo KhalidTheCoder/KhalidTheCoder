@@ -56,14 +56,16 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
   </div>
 
-   <div style="margin-top:20px;max-width:360px;">
+  
+</div>
+
+ <div style="margin-top:20px;max-width:360px;">
     <img
       alt="Most Used Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9800&text_color=AAAAAA"
       style="display:block;width:100%;height:auto;border-radius:8px;"
     />
   </div>
-</div>
 
 
 
