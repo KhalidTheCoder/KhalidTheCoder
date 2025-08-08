@@ -58,12 +58,7 @@ Explore an overview of my development journey, including contribution streaks, l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Social badges -->
-  <img src="https://img.shields.io/github/followers/KhalidTheCoder?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/repos/KhalidTheCoder?label=Repos&style=flat" alt="Repos" />
-  <img src="https://img.shields.io/github/stars/KhalidTheCoder?label=Stars&style=flat" alt="Stars" />
-</p>
+
 
 
 
