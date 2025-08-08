@@ -47,8 +47,8 @@ Explore an overview of my development journey, including contribution streaks, l
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats"
+    src="https://user-images.githubusercontent.com/107488620/183304037-0e54b5e6-f39a-481d-806f-3369d257a391.png" 
+    alt="GitHub Stats Custom"
     height="180"
     style="margin: 8px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
@@ -84,6 +84,7 @@ Explore an overview of my development journey, including contribution streaks, l
     style="padding: 10px; max-width: 100%; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15);" 
   />
 </div>
+
 
 
 ---
