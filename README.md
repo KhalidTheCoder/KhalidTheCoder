@@ -54,27 +54,6 @@ Explore an overview of my development journey, including contribution streaks, l
       />
     </div>
 
-    <!-- RIGHT: Summary Stats box and Most Used Languages stacked -->
-    <div style="flex:1 1 460px;min-width:320px;max-width:520px;display:flex;flex-direction:column;gap:14px;">
-
-      <!-- Stats card (use github-readme-stats service) -->
-      <div style="border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
-        <img
-          alt="KhalidTheCoder's GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=520&v=1"
-          style="display:block;width:100%;height:auto;border-radius:8px;"
-        />
-      </div>
-
-      <!-- Top languages (colorful horizontal bar) -->
-      <div style="border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
-        <img
-          alt="Most Used Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark&hide_border=true&card_width=520&v=1"
-          style="display:block;width:100%;height:auto;border-radius:8px;"
-        />
-      </div>
-    </div>
   </div>
 </div>
 
