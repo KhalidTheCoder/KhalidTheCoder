@@ -55,13 +55,13 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
     </div>
   </div>
    <!-- Most Used Languages -->
-  <div style="flex:1 1 280px;min-width:240px;max-width:320px;border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&border_radius=8"
-        alt="Top Languages"
-        style="display:block;width:100%;height:auto;border-radius:8px;"
-      />
-    </div>
+    <div style="margin-top:25px;max-width:420px;width:100%;border-radius:10px;padding:12px;background:#0d1117;border:1px solid rgba(255,255,255,0.06);box-shadow:0 6px 18px rgba(0,0,0,0.5);">
+    <img
+      alt="Most Used Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF9800&text_color=AAAAAA"
+      style="display:block;width:100%;height:auto;border-radius:8px;"
+    />
+  </div>
 </div>
 
  
