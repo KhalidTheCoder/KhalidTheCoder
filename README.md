@@ -41,7 +41,29 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 
 Explore an overview of my development journey, including contribution streaks, language proficiency, and open-source highlights.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <!-- Streak (live) -->
+  <a href="https://github.com/KhalidTheCoder">
+    <img src="https://streak-stats.demolab.com?user=KhalidTheCoder&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Summary stats (live) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KhalidTheCoder&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <!-- Top languages (live) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Social badges -->
+  <img src="https://img.shields.io/github/followers/KhalidTheCoder?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/KhalidTheCoder?label=Repos&style=flat" alt="Repos" />
+  <img src="https://img.shields.io/github/stars/KhalidTheCoder?label=Stars&style=flat" alt="Stars" />
+</p>
 
 
 
