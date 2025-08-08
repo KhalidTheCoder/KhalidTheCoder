@@ -58,6 +58,12 @@ I'm a passionate **MERN Stack Developer** focused on building scalable, responsi
 </div>
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidTheCoder&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" height="180px" />
+</a>
+
+
 ---
 
 <p align="center">
